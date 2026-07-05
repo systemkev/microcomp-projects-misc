@@ -1,6 +1,6 @@
 # 6.115 Microcomputer Projects (8051 Assembly)
 
-This repository contains a collection of 8051/8032 assembly programs written for the 6.115 Microcomputer Project Laboratory. These files cover everything from basic I/O and serial communication to complex hardware interfacing, including DACs, ADCs, LCD displays, and stepper motors. 
+This repository contains a collection of 8051/8032 assembly programs written for MIT's 6.115 Microcomputer Project Laboratory. These files cover everything from basic I/O and serial communication to complex hardware interfacing, including DACs, ADCs, LCD displays, and stepper motors. 
 
 ## Project Highlights
 
