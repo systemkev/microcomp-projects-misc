@@ -1,0 +1,9 @@
+   AC Live (L)
+       |
+       |------[ Ballast / Choke ]------( Lamp Filament 1 )------+
+       |                                                         |
+       |                                                      [Starter]
+       |                                                         |
+       +------( Lamp Filament 2 )--------------------------------+
+       |
+   AC Neutral (N)
